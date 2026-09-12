@@ -5,7 +5,7 @@ S. Y. Han, “Timer-Dependent Synchronization of Mismatched Gated Recurrent Unit
 
 ----
 
-MATLAB implementation of **Timer-Dependent Synchronization Controller for GRUs (TDSC-GRUs) ** by [Seungyong Han](https://sites.google.com/view/jbnu-dscl)
+MATLAB implementation of **Timer-Dependent Synchronization Controller for GRUs (TDSC-GRUs)** by [Seungyong Han](https://sites.google.com/view/jbnu-dscl)
 
 <!-- <p align="center">
   <img src="Figures/03_Ex1_Case1_Leader_Follower_Trajectory.png" width="250" />
