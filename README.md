@@ -20,9 +20,9 @@ The timer-dependent synchronization controller (TDSC) design is proposed for mas
 
 # 2. Requirements
 - MATLAB R2024b+
-- YALMIP (available at https://yalmip.github.io/download/)
-- SOSTOOLS (available at https://www.cds.caltech.edu/sostools/)
-- MOSEK (available at https://www.mosek.com/downloads/)
+- YALMIP (https://yalmip.github.io/download/)
+- SOSTOOLS (https://www.cds.caltech.edu/sostools/)
+- MOSEK (https://www.mosek.com/downloads/)
   
 ## Contact
  - If you have questions or suggestions, please reach out via email [hansy@jbnu.ac.kr](mailto:hansy@jbnu.ac.kr).
